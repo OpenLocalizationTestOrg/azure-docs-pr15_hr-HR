@@ -1,0 +1,1 @@
+Mehanizam za povezivanje dva virtualne mreže na istom području putem mreže Azure backbone VNet Peering je. Kad peered, dva virtualne mreže prikazat će se kao jedan virtualne mreža za sve povezivanjem namjene. Ako niste upoznati s VNet Peering, pročitajte [Pregled VNet Peering](../articles/virtual-network/virtual-network-peering-overview.md) .

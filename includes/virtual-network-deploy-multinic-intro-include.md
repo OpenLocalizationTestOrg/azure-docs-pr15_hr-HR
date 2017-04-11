@@ -1,0 +1,3 @@
+Možete stvoriti virtualnim strojevima (VMs) u Azure i priložite svaki od vašeg VMs više mreža sučelja (NIC-ovi). Višestruki NIC za preduvjet je mnogo mreže virtualne aparata, kao što su isporuka aplikacija i WAN optimizaciju rješenja. Višestruki NIC nudi dodatne funkcije za mrežni promet upravljanja, uključujući odvajanja prometa između na prednju završili NIC i sigurnosno end NIC(s) ili odvojenosti prometa ravnini podataka iz upravljanje ravnini promet.
+
+Da biste mogli implementirati višestruki NIC-ovi u VMs, potrebno je da biste razumjeli kada koristite više NIC-ovi i kako se koriste. [Višestruki NIC pregled](../articles/virtual-network/virtual-networks-multiple-nics.md) da biste saznali više o VMs s više NIC-ovi za čitanje.

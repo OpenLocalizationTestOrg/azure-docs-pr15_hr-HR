@@ -1,0 +1,1 @@
+Također moguće je povezati VNets bez korištenja pristupnik VPN-a. Ako vaš VNets nalaze u istom području, preporučujemo vam da razmislite o povezivanju ih pomoću VNet peering. Dodatne informacije potražite u članku [VNet peering](../articles/virtual-network/virtual-network-peering-overview.md) .

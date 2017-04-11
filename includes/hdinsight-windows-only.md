@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Informacije u ovom dokumentu odnosi se samo na klastere HDInsight utemeljen na sustavu Windows.

@@ -1,0 +1,5 @@
+Je važno je znati da Azure trenutno funkcionira s dva modelima implementacije: Voditelj resursa i classic. Prije nego počnete konfiguraciju, provjerite koristite li upute za implementaciju model koji želite raditi. Dva modela nisu potpuno kompatibilna međusobno.
+
+Ako, na primjer, ako se radi o virtualne mreže koji je stvoren pomoću klasične implementacije modela i željeli da biste dodali vezu na VNet, pomoću načinima koji odgovaraju model klasični implementacije, Voditelj resursa. Ako radite s virtualne mreže koja je stvorena pomoću modela implementacije Voditelj resursa, koristit ćete načinima koji odgovaraju s Voditelj resursa, ne klasični.
+
+Informacije o implementaciji modelima potražite u članku [Implementacija upravljanja resursima za razumijevanje i klasični implementacije](../articles/resource-manager-deployment-model.md).

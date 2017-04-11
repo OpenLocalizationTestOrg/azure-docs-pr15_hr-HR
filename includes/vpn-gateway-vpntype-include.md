@@ -1,0 +1,7 @@
+- **PolicyBased:** PolicyBased VPN-ovi su prethodno pod nazivom statične usmjeravanje pristupnika u modelu klasični implementacije. Pravila utemeljen VPN-ovima šifriranje i izravno pakete kroz IPsec tunnels na temelju pravila IPsec konfiguriran pomoću kombinacije adresu prefiksi između lokalne mreže i Azure VNet. Pravila (ili odabir promet) obično se definira kao popisa pristupa u konfiguraciji uređaj VPN-a. Vrijednost za vrstu PolicyBased VPN je *PolicyBased*. Prilikom korištenja PolicyBased VPN-a, imajte na umu sljedeća ograničenja:
+
+    - PolicyBased VPN-ovi mogu **samo** koristit osnovni pristupnika SKU-om. Ta vrsta VPN-a nije kompatibilno s drugim pristupnika SKU-ove.
+    - Možete imati samo 1 tunelom prilikom korištenja PolicyBased VPN-a.
+    - Možete koristiti samo PolicyBased VPN-ovi za S2S veze, a samo određenih konfiguracije. Većina konfiguracijama pristupnika za VPN-a potreban je RouteBased VPN.
+
+- **RouteBased**: RouteBased VPN-ovi su prije se zvao dinamički usmjeravanje pristupnika u modelu klasični implementacije. RouteBased VPN-ovi u IP prosljeđivanje ili postupak tablice da biste izravno pakete u svoje odgovarajuće tunelom sučelja koristiti "usmjerava". Sučelja tunelom zatim šifriranje ili dešifriranje pakete i na tunnels. Pravila (ili odabir promet) za RouteBased VPN-ovi su konfigurirana kao bilo koje-na-bilo koje (ili koji kartica). Vrijednost za vrstu RouteBased VPN je *RouteBased*.

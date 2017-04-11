@@ -1,0 +1,11 @@
+> [AZURE.SELECTOR]
+- [Pregled](../articles/hdinsight/hdinsight-use-hive.md)
+- [Prikaz grozd](../articles/hdinsight/hdinsight-hadoop-use-hive-ambari-view.md)
+- [SSH](../articles/hdinsight/hdinsight-hadoop-use-hive-ssh.md)
+- [Beeline](../articles/hdinsight/hdinsight-hadoop-use-hive-beeline.md)
+- [Zakretanja](../articles/hdinsight/hdinsight-hadoop-use-hive-curl.md)
+- [PowerShell](../articles/hdinsight/hdinsight-hadoop-use-hive-powershell.md)
+- [.NET](../articles/hdinsight/hdinsight-hadoop-use-hive-dotnet-sdk.md)
+- [Visual Studio](../articles/hdinsight/hdinsight-hadoop-use-hive-visual-studio.md)
+- [Udaljena radna površina](../articles/hdinsight/hdinsight-hadoop-use-hive-remote-desktop.md)
+- [Konzola za upit](../articles/hdinsight/hdinsight-hadoop-use-hive-query-console.md)
