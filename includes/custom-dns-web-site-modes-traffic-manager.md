@@ -1,0 +1,3 @@
+Postavljanje prilagođenog naziva domene na web-aplikacijama u servisu Azure aplikacije koji je rasporediti Upravitelj promet opterećenje dostupna je samo za **standardnom** načinu web-mjesta. Prije promjene web-aplikacijama iz načina rada za planiranje besplatne aplikacije servisa za zajedničko korištenje, Basic ili standardna način rada, najprije morate ukloniti kupujete velika slova na mjestu aplikacije servisa za pretplatu. 
+
+Dodatne informacije o planiranje načina aplikacije servisa, uključujući kako promijeniti način web-mjesta, pročitajte članak [upute za promjenu veličine web-mjesta](../articles/app-service-web/web-sites-scale.md).

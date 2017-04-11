@@ -1,0 +1,1 @@
+Informacije o drugim povezivanja i okidača za Azure funkcije potražite u članku [funkcije Azure okidača i povezivanja reference za razvojne inženjere](../articles/azure-functions/functions-triggers-bindings.md)

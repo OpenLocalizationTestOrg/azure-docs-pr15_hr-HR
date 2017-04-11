@@ -1,0 +1,1 @@
+Ako već nemate promet upravitelj profila, pomoću informacija u [Stvaranje profila Upravitelja promet pomoću brzo stvaranje](../articles/traffic-manager/traffic-manager-manage-profiles.md) da biste je stvorili. Napomena u **. trafficmanager.net** naziv domene povezane sa promet upravitelj profila, kao što je to će se koristiti kasnije koracima kasnije u ovom dokumentu.

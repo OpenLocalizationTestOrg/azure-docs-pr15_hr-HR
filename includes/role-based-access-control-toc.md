@@ -1,0 +1,4 @@
+- [Kontrola pristupa na temelju uloga](../articles/active-directory/role-based-access-control-configure.md)
+- [Upravljanje pristupom pomoću komponente Powershell Azure](../articles/active-directory/role-based-access-control-manage-access-powershell.md)
+- [Upravljanje pristupom pomoću EŽA Azure](../articles/active-directory/role-based-access-control-manage-access-azure-cli.md)
+- [RBAC ugrađena uloge](../articles/active-directory/role-based-access-built-in-roles.md)

@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Prije početka rada s resursima za Azure upoznati s modelima implementacije: [Voditelj resursa i classic](../articles/resource-manager-deployment-model.md).

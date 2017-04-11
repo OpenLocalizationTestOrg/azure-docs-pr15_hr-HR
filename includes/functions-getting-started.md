@@ -1,0 +1,3 @@
+Azure funkcije je sučelje utemeljenih na događaj, računalnim na zahtjev koji se proteže postojeće platforme Azure aplikacije s mogućnostima za implementaciju kod koji se prikazuje kada događaja u drugim Azure services, SaaS proizvodi i lokalnog sustava. Pomoću funkcija Azure aplikacija skaliranje na temelju zahtjev i plaćate samo za resurse koji zauzimaju. Azure funkcije nudi intuitivno i utemeljenima na pregledniku korisničkog sučelja koja vam omogućuje stvaranje zakazano ili koji se prikazuje dijelove koda implementirana u raznim programskog jezika. 
+
+Ovaj uvodni videozapis pokazuje kako stvoriti aplikaciju za funkciju, promjena koda, kao i kako raditi s okidačima i povezivanja.

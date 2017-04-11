@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Ta je značajka dostupna s proizvodima **CDN Azure s Verizon** (standardna i Premium). Nije podržana na **CDN Azure s Akamai**.  Usporedba značajki CDN potražite u članku [Pregled CDN Azure](cdn-overview.md#azure-cdn-features). 

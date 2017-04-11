@@ -1,0 +1,1 @@
+Kada koristite Upravitelj programa Microsoft Azure promet za učitavanje saldo promet na web-mjesto Azure, to web-mjesto pa može pristupiti pomoću u ** \*. trafficmanager.net** dodijelio Azure naziv domene. Prilagođeni naziv domene, primjerice www.contoso.com, možete povezati i na web-mjestu da bi se unijeti više može prepoznati naziv domene za korisnike.

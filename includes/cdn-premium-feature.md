@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] To je značajka servisa **Azure CDN Premium s Verizon**, a nije dostupno u sklopu **Azure CDN standardne** proizvodi.  Usporedba značajki CDN potražite u članku [Pregled CDN Azure](cdn-overview.md#azure-cdn-features). 

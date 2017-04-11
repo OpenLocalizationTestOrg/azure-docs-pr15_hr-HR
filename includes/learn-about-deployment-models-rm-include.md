@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Azure sadrži dva različitoj implementaciji modela za stvaranje i rad s resursima: [Voditelj resursa i classic](../articles/resource-manager-deployment-model.md).  U ovom se članku pokriva pomoću modela za implementaciju Voditelj resursa koji Microsoft preporučuje za većinu novi implementacije umjesto u
