@@ -1,0 +1,3 @@
+Azure Interna Raspoređivač opterećenja (ILB) nudi ujednačavanja između virtualnih računala koje se nalaze unutar oblaka servisa ili virtualne mreže s regionalnim doseg opterećenja mreže.
+
+Informacije o korištenje i konfiguracija virtualne mreže s regionalnim dosega pogledajte [Regionalne virtualne mreže](../articles/virtual-network/virtual-networks-migrate-to-regional-vnet.md). Postojeće virtualne mreže podešena za afinitet grupu nije moguće koristiti ILB.
