@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT]  Ukinuta je sadržaja i koja se više ne zadržavaju.  Sažetak podrška za Oracle na Azure potražite u članku [to objaviti podršku izjava.](http://www.oracle.com/technetwork/topics/cloud/faq-1963009.html#support)

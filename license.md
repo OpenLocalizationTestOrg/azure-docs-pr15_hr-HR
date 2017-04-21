@@ -1,0 +1,7 @@
+Autorska prava (c) Microsoft Corporation.  Raspodijeljeno u odjeljku sljedeće uvjete:
+ 
+1. Microsoft i suradnicima taj projekt svaki daje licencu, u odjeljku njegov odgovarajući autorskih prava, Microsoft Azure potražite u dokumentaciji [Creative Commons Attribution 3.0 Sjedinjenih Američkih Država licence](http://creativecommons.org/licenses/by/3.0/us/legalcode).  Osim toga, vezana uz sve ogledni kod koje se nalaze u dokumentaciji web-mjesto Microsoft i u okvir za pretraživanje kao suradnici vam daje dodatne licence, ispod njegova prava odgovarajući intelektualnog vlasništva, koristiti kod za razvoj ili dizajnirati softvera za Microsoft Azure.
+ 
+2.  Microsoft, Windows, Microsoft Azure i/ili drugih Microsoftovih proizvoda i usluga referencirani u dokumentaciji možda zaštitnih znakova ili registrirani zaštitni Microsoft u Sjedinjenim Američkim Državama i/ili drugim državama. Licenca nije vam dodijeliti prava na korištenje sve naziva, logotipa ili zaštitnih znakova. Smjernice za opće zaštitni znak tvrtke Microsoft potražite na [http://go.microsoft.com/fwlink/?LinkID=254653](http://go.microsoft.com/fwlink/?LinkID=254653).
+ 
+3.  Microsoft i bilo koji rezervira suradnici sve ostale prava, hoće li u odjeljku autorskih prava, prava ili zaštitnih znakova ili patentnim, estoppel ili neki drugi način.

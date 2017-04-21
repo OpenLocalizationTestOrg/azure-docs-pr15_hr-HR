@@ -1,0 +1,3 @@
+> Ne možete koristiti u v1 (klasični) Azure virtualne mreže s operacijskim sustavom Linux HDInsight. Virtualne mreže mora biti v2 (Azure Voditelj resursa), kako bi ga biti navedena kao mogućnost tijekom procesa stvaranja klaster HDInsight na portalu Azure pretpregled ili moći koristiti pri stvaranju klaster Azure EŽA ili Azure PowerShell.
+> 
+> Ako imate resursa na mreži v1, a želite napraviti HDInsight izravno pristupiti tih resursa putem virtualne mreže, potražite u članku [Povezivanje classic VNets nove VNets](../articles/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal.md) informacije o povezivanju v2 virtualne mreže v1 virtualne mreže. Uspostavljanja tu vezu možete stvoriti klaster HDInsight u v2 virtualne mreže.

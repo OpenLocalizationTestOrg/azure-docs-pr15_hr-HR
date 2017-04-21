@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> Datoteka .publishsettings sadrži vjerodajnice (dekodirani) koji se koriste za administriranje Azure pretplate i usluge. Sigurnost preporučenim načinom rada za tu datoteku je privremeno spremiti izvan vaše direktorija izvora (primjerice u mapi Libraries\Documents), a zatim ga izbrišite u kad je uvoz dovršen. Zlonamjeran korisnik koji poboljšava pristup datoteci .publishsettings možete uređivati, stvaranje i brisanje servisa Azure.
